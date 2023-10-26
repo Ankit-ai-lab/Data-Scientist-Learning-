@@ -1,0 +1,36 @@
+Question: Write a Python program to check if a given number is positive using an if statement.    
+
+2.Write a program that takes a user's age and determines if they are eligible to vote using an if statement.
+Enter your age: 22
+You are eligible to vote.
+
+3.Question: Write a Python program to determine if a number is even or odd using an if-else statement.   Enter a number: 7
+The number is odd.
+
+4.: Create a program that checks if a user-provided password matches a predefined correct password using an if-else statement.   output  =Enter the password: abcd1234
+Access granted!   
+
+5.Write a Python program to classify a given angle (in degrees) as acute, obtuse, or right using if-elif-else statements.  output = Enter the angle in degrees: 120
+Obtuse angle.      
+
+6.Create a program that determines the grade (A, B, C, D, or F) for a given percentage using if-elif-else statements.   out=Enter the percentage: 78
+Grade: C  
+
+7.Write a Python program to determine if a given year is a leap year using nested if-else statements.  output = Enter a year: 2020
+Leap year 
+
+8.Create a program that determines if a given number is positive, negative, or zero using nested if-else statements.  output  = Enter a number: -3
+Negative  
+
+9.Write a Python program to print numbers from 1 to 5 using a while loop      output =1
+2
+3
+4
+5
+ 
+ 
+ 9.Create a program that calculates the factorial of a given number using a while loop.    output =Enter a number: 5
+The factorial is 120   
+
+10.Write a Python program to print even numbers between 1 and 10 using a for loop    output = The sum is 55
+10     11  

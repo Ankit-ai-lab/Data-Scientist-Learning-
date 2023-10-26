@@ -1,0 +1,19 @@
+1.Write a Python program that calculates the hypotenuse of a right triangle given the lengths of its two legs. Print the result.
+
+2.Write a Python program that adds two complex numbers (a + bi and c + di). Print the result.
+
+3.Write a Python program that converts a floating-point number to an integer. Print the result
+
+4.Write a Python program that converts a string representing a binary number to its decimal equivalent. Print the result.
+
+5.Write a Python program that generates a random integer between a specified range (inclusive). Print the result.
+
+6.Write a Python program that generates a random password of a specified length. The password should include a mix of uppercase letters, lowercase letters, and digits. Print the result.
+
+7.Write a Python program that calculates the square root of a complex number (a + bi). Print the result.
+
+8.Write a Python program that subtracts two complex numbers (a + bi and c + di). Print the result.
+
+9.Write a Python program that generates a random word of a specified length using a combination of lowercase letters
+
+10.Write a Python program that generates a random name by combining a specified number of random syllables. Each syllable is constructed by randomly selecting a consonant followed by a vowel.
