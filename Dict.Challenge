@@ -1,0 +1,10 @@
+1.Longest Word in Sentence:
+
+Write a Python function longest_word(sentence) that takes a sentence as input and returns the longest word in the sentence. If there are multiple longest words, return the first one.
+
+
+2.Write a Python function remove_duplicates(numbers) that takes a list of numbers as input and returns a new list with duplicates removed, while preserving the original order.
+
+3.Write a Python function is_anagram(word1, word2) that takes two words as input and returns True if they are anagrams of each other, and False otherwise.
+
+4.Write a Python function count_vowels(text) that takes a string as input and returns a dictionary containing the count of each vowel (a, e, i, o, u) in the text.
